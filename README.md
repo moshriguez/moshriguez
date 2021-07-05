@@ -1,6 +1,6 @@
 ### Hello World! My name is Marc! 👋
 
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Redux, Firebase and the Web Audio API
 
 ---
 ### Connect with me:
