@@ -1,7 +1,6 @@
 ### Hello World! My name is Marc! 👋
 
-- 🌱 I’m currently learning Go and TypeScript.
--  A recent graduate of the Flatiron School (Seattle)
+- 🌱 I’m currently working with Go daily and enjoying it!
 -  When I am not coding, I like to play music (I am a drummer), hike the beautiful mountains of WA, or play some board games with friends.
 
 ---
